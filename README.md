@@ -1,4 +1,8 @@
 # Progress Indicator - Deep Dive - Flutter
+
+updated dependencies
+
+
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Buy Flutter Courses](https://img.shields.io/static/v1?label=Buy&message=My%20Flutter%20Courses&color=5FB709&style=for-the-badge)][courses]
